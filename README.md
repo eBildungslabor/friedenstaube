@@ -4,9 +4,13 @@
 
 Dies ist eine einfache Website, auf der beim Öffnen eine Friedenstauben-Animation startet. Außerdem wird die ukrainische Flagge mit einem jeweils aktuellen Link angezeigt, wo und wie man sich für den Frieden einsetzen kann. 
 
+![](https://i.imgur.com/S5gVJTM.png)
+
+Hier ist der Link: https://ebildungslabor.github.io/friedenstaube/
+: 
 ## Wie kann ich das nutzen?
 
-Du kannst die Website so wie sie ist bei Veranstaltungen einblenden oder mit Kolleg:innen teilen. Du findest sie [hier](https://ebildungslabor.github.io/friedenstaube/). Ebenso kannst Du das Projekt forken und den Link dann dorthin führen lassen, wo es z.B. bei Dir vor Ort Möglichkeiten gibt, sich für den Frieden einzusetzen. Dazu kannst Du einfach den Link im Header austauschen. 
+Du kannst [die Website](https://ebildungslabor.github.io/friedenstaube/) so wie sie ist bei Veranstaltungen einblenden oder mit Kolleg:innen teilen. Ebenso kannst Du das Projekt forken und den Link dann dorthin führen lassen, wo es z.B. bei Dir vor Ort Möglichkeiten gibt, sich für den Frieden einzusetzen. Dazu kannst Du einfach den Link im Header austauschen. 
 
 ## Lizenz der Friedenstauben-Animation
 
